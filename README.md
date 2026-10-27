@@ -3,7 +3,7 @@
 <!-- Animated banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Adarsh+Singh+%F0%9F%91%8B;AI+Developer+%7C+AI%2FML+Developer;Full-Stack+Developer+%7C+Python+Developer;Building+AI-powered+applications" alt="Typing SVG" />
 
-<p><em><strong>I am an Artificial Intelligence and Data Science student with a strong interest in Artificial Intelligence, Machine Learning, and emerging technologies. I am passionate about developing innovative projects, solving real-world problems, and transforming ideas into practical, technology-driven solutions. I continuously strive to expand my technical knowledge, strengthen my problem-solving skills, and contribute to meaningful technological advancements.</strong></em></p>
+<p><em><strong>Artificial Intelligence and Data Science student passionate about AI, Machine Learning, and emerging technologies. Focused on building innovative projects, solving real-world problems, and transforming ideas into practical, technology-driven solutions.</strong></em></p>
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Developer-7AA2F7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Developer" />
@@ -146,6 +146,6 @@
 
 <p><em>If you like my work, consider leaving a ⭐ on a repository!</em></p>
 
-**Made with 💙 by Adarsh Singh**
+**Made by Adarsh Singh**
 
 </div>

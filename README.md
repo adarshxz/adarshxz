@@ -30,7 +30,6 @@
 - 🎓 **B.Tech AI & Data Science** | Indore
 - 🚀 Building **AI-powered applications and full-stack projects**
 - 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**
-- 💡 Passionate about turning ideas into practical, technology-driven solutions
 - 🤝 Open to collaborating on **AI/ML and full-stack projects**
 - 📫 Reach me at **[adarshsingh.code@gmail.com](mailto:adarshsingh.code@gmail.com)**
 

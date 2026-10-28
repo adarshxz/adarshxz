@@ -1,12 +1,11 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Adarsh+Singh+%F0%9F%91%8B;AI+Developer+%7C+AI%2FML+Developer;Full-Stack+Developer+%7C+Python+Developer;Building+AI-powered+applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Adarsh+Singh+%F0%9F%91%8B;AI%2FML+Developer;Full-Stack+Developer+%7C+Python+Developer;Building+AI-powered+applications" alt="Typing SVG" />
 
 <p><em><strong>Artificial Intelligence and Data Science student passionate about AI, Machine Learning, and emerging technologies. Focused on building innovative projects, solving real-world problems, and transforming ideas into practical, technology-driven solutions.</strong></em></p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Developer-7AA2F7?style=for-the-badge&logo=artificial-intelligence&logoColor=white" alt="AI Developer" />
   <img src="https://img.shields.io/badge/Full--Stack%20Developer-9D7CD8?style=for-the-badge&logo=react&logoColor=white" alt="Full-Stack Developer" />
   <img src="https://img.shields.io/badge/AI%2FML%20Developer-FF9E64?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML Developer" />
   <img src="https://img.shields.io/badge/Python%20Developer-2AC3DE?style=for-the-badge&logo=python&logoColor=white" alt="Python Developer" />

@@ -39,37 +39,37 @@
 
 #### Machine Learning & AI
 
-![NumPy](https://img.shields.io/badge/NumPy-1A1B27?style=for-the-badge&logo=numpy&logoColor=7AA2F7)
-![Pandas](https://img.shields.io/badge/Pandas-1A1B27?style=for-the-badge&logo=pandas&logoColor=9D7CD8)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1A1B27?style=for-the-badge&logo=scikitlearn&logoColor=FF9E64)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B27?style=for-the-badge&logo=tensorflow&logoColor=FF9E64)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-1A1B27?style=for-the-badge&logo=googlegemini&logoColor=7AA2F7)
-![LLMs](https://img.shields.io/badge/LLMs-1A1B27?style=for-the-badge&logo=openai&logoColor=9D7CD8)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8B5CF6?style=for-the-badge&logo=googlegemini&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 #### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-1A1B27?style=for-the-badge&logo=python&logoColor=2AC3DE)
-![JavaScript](https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=E0AF68)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=323330)
 
 #### Web Development
 
-![React](https://img.shields.io/badge/React-1A1B27?style=for-the-badge&logo=react&logoColor=7DCFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1A1B27?style=for-the-badge&logo=tailwindcss&logoColor=2AC3DE)
-![Next.js](https://img.shields.io/badge/Next.js-1A1B27?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 #### Backend & Databases
 
-![FastAPI](https://img.shields.io/badge/FastAPI-1A1B27?style=for-the-badge&logo=fastapi&logoColor=9ECE6A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B27?style=for-the-badge&logo=postgresql&logoColor=7AA2F7)
-![MongoDB](https://img.shields.io/badge/MongoDB-1A1B27?style=for-the-badge&logo=mongodb&logoColor=9ECE6A)
-![Supabase](https://img.shields.io/badge/Supabase-1A1B27?style=for-the-badge&logo=supabase&logoColor=9ECE6A)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 #### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=F7768E)
-![GitHub](https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-1A1B27?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1A1B27?style=for-the-badge&logo=docker&logoColor=7DCFFF)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 

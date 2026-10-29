@@ -122,8 +122,8 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=adarshxz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Adarsh's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshxz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img height="170" src="https://github-readme-stats-eight-puce.vercel.app/api?username=adarshxz&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="Adarsh's GitHub stats" />
+<img height="170" src="https://github-readme-stats-eight-puce.vercel.app/api/top-langs/?username=adarshxz&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com/?user=adarshxz&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 

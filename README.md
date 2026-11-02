@@ -16,6 +16,7 @@
   <a href="https://www.linkedin.com/in/adarshxzsingh/"><img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" alt="LinkedIn" /></a>
   <a href="https://x.com/Adarshxz"><img src="https://img.shields.io/badge/X%20(Twitter)-1A1B27?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:adarshsingh.code@gmail.com"><img src="https://img.shields.io/badge/Email-1A1B27?style=for-the-badge&logo=gmail&logoColor=F7768E" alt="Email" /></a>
+  <a href="https://adarshxz.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1A1B27?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=adarshxz&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />

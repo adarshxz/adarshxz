@@ -26,10 +26,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Tech AI & Data Science** | Indore
-- 🚀 Building **AI-powered applications and full-stack projects**
-- 🤖 Interested in **Artificial Intelligence, Machine Learning, and Generative AI**
-- 🤝 Open to collaborating on **AI/ML and full-stack projects**
+- **B.Tech AI & Data Science** | Indore
+- Building **AI-powered applications and full-stack projects**
+- Open to collaborating on **AI/ML and full-stack projects**
+- Website: https://adarshxz.vercel.app/
 - 📫 Reach me at **[adarshsingh.code@gmail.com](mailto:adarshsingh.code@gmail.com)**
 
 ---

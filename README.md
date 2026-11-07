@@ -31,7 +31,7 @@
 - Building **AI-powered applications and full-stack projects**
 - Open to collaborating on **AI/ML and full-stack projects**
 - Website: https://adarshxz.vercel.app/
-- 📫 Reach me at **[adarshsingh.code@gmail.com](mailto:adarshsingh.code@gmail.com)**
+- Reach me at **[adarshsingh.code@gmail.com](mailto:adarshsingh.code@gmail.com)**
 
 ---
 
